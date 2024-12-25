@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\bin\Debug\Ejercicio07.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\bin\Debug\Ejercicio07.pdb
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\obj\Debug\Ejercicio07.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\obj\Debug\Ejercicio07.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaCicloWhile\Ejercicio07\obj\Debug\Ejercicio07.pdb

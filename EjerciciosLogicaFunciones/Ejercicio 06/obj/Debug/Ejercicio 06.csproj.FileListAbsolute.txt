@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\bin\Debug\Ejercicio 06.exe.config
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\bin\Debug\Ejercicio 06.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\bin\Debug\Ejercicio 06.pdb
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\obj\Debug\Ejercicio 06.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\obj\Debug\Ejercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\obj\Debug\Ejercicio 06.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaFunciones\Ejercicio 06\obj\Debug\Ejercicio 06.pdb

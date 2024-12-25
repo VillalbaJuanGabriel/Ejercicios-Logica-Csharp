@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\bin\Debug\Ejercicio00.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\bin\Debug\Ejercicio00.pdb
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\obj\Debug\Ejercicio00.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\obj\Debug\Ejercicio00.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaSecuenciales\Ejercicio00\obj\Debug\Ejercicio00.pdb

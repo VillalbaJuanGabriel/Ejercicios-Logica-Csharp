@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Usuario\source\repos\EjerciciosLogicaCondicionales1\Ejercicio01\obj\Debug\Ejercicio01.pdb
